@@ -21,8 +21,8 @@
 title: ZotyHub
 email: zoty@zoty.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Blog for writting cool things that I like.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+  Blog for writting about cool things that I like.
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ZotyDev
 github_username:  ZotyDev
